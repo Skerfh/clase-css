@@ -1,5 +1,5 @@
 p{
-font-size: 20px;
+font-size: 30px;
 font-family: Times New Roman;
 font-style: normal;
 color: #FFFFFF;
@@ -7,14 +7,20 @@ text-align: left;
 
 }
 main{
-    background-color: black;
+    background-color: rgb(129, 126, 126);
 }
 body{
-    background-color: blanchedalmond;
+    background-color: rgb(248, 227, 195);
 }
 footer{
-    background-color: blueviolet;
+    background-color: rgb(115, 92, 138);
 }
 header{
-    background-color: brown;
+    background-color: rgb(165, 162, 162);
+}
+.parrafo1{
+   font-size: 50px;
+}
+.parrafo2{
+    color: gold;
 }
